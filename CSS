@@ -45,10 +45,3 @@ p{
 .special-margin {
   margin-top: 0px;
 }
-<div class="topnav">
- <a class="active"Main Page">Home</a>        
-        <a href="about.html">About us</a>
-        <a href="services.html">Services</a>
-        <a href="portal.html">client portal</a>
-        <a href="contact.html">Contact</a>
-</div>
