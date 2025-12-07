@@ -5,4 +5,7 @@
  <meta name="viewpor" content = ""width=device-width, initial-scale="1.0"></meta>
  <link rel="stylesheet" href="CSS">
  <title>Fish Learning Main Page</title>
-
+<body>
+<h1>Fish learning main page</h1>
+<p> This website is for teaching information about certain fish species</p>
+</body>
