@@ -11,4 +11,14 @@
         <a href="services.html">Types of Fish</a>
         <a href="portal.html">Email Page</a>
         <a href="contact.html">Contact</a>
+<body>
+
+</body>
 </div>
+
+<form>
+  <label for="fname">Fish name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="Location">Location:</label><br>
+  <input type="text" id="Location" name="location">
+</form>
