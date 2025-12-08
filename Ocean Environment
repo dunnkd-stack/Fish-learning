@@ -13,6 +13,8 @@
         <a href="contact.html">Contact</a>
 </div>
  <title>Ocean Environment</title>
+<body>
+<h1> Ocean Enviornment <h1>
 <p>Pelagic Environment (Open Water): This encompasses the entire water column not in direct contact with the ocean floor or the shore. It is often called the "deserts of the sea" but is home to abundant plankton, fish, whales, and dolphins.
 Benthic Environment (Ocean Floor): This environment includes the seafloor, from the high-tide mark to the deepest ocean trenches. Organisms here (like sponges, worms, and some fish) are adapted to living on or near the bottom, where temperature and light change with depth. 
 ntertidal Zone: The area between the high and low tide marks that is alternately submerged in water and exposed to air. Organisms here must withstand significant variations in temperature, salinity, and wave action.
@@ -29,5 +31,6 @@ Mangrove Forests & Salt Marshes: Coastal wetlands and forests in tropical and te
 Estuaries: Areas where freshwater rivers and streams flow into the ocean, creating a mix of fresh and saltwater.
 Hydrothermal Vents & Cold Seeps: Formed by volcanic activity on the seafloor, these extreme deep-sea environments support unique ecosystems reliant on chemical energy (chemosynthesis) rather than sunlight. 
 </p>
+</body>
 <h2>Video of the ocean</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JDcGwskWFtA?si=zGNrDPMG0uX_THQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
