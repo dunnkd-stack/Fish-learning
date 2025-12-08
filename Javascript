@@ -1,1 +1,25 @@
+const newItemInput = document.getElementById('newItemInput');
+const addButton = document.getElementById('addButton');
+const myList = document.getElementById('myList');
 
+addButton.addEventListener('click', function() {
+    const newItemText = newItemInput.value;
+
+    // Check if the input is not empty
+    if (newItemText.trim() !== '') {
+        // 3. Create a new list item (li) element
+        const newListItem = document.createElement('li');
+        
+        // 4. Set the text content of the new element
+        newListItem.textContent = newItemText;
+        
+        // 5. Append the new element to the list container (ul)
+        myList.appendChild(newListItem);
+        
+        // Optional: Clear the input field after adding the item
+        newItemInput.value = '';
+
+        // Optional: Put focus back on the input field for easy next entry
+        newItemInput.focus();
+    }
+});
