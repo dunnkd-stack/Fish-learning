@@ -17,7 +17,14 @@
 <p>Tuna </p>
 <p>salman </p>
 <p> which fish is your favorite?</p>
-
+<form>
+  <input type="html" id="html" name="fav_fish" value=">Tiger shark">
+  <label for=">Tiger shark">>Tiger shark</label><br>
+  <input type="radio" id="css" name="fav_fish" value="Tuna">
+  <label for="Tuna">Tuna</label><br>
+  <input type="radio" id="javascript" name="fav_fish" value="salman">
+  <label for="salman">salman</label>
+</form>
 <p> any others that you want added to the site add it to the list bellow.</p>
     <input type="text" id="newItemInput" placeholder="Enter a new item...">
     <button id="addButton">Add to List</button>
