@@ -10,12 +10,11 @@
         <a href="about.html">Ocean Environment</a>
         <a href="services.html">Types of Fish</a>
         <a href="portal.html">Email Page</a>
-        <a href="contact.html">Contact</a>
 </div>
 <img src="https://t3.ftcdn.net/jpg/06/17/34/18/240_F_617341894_EKPzewc7Y23ZI8ZZgBCYPbYhgOHYILet.jpg" alt="Trulli" width="500" height="333">
  <title>Fish Learning Main Page</title>
 <body>
 <h1>Fish learning main page</h1>
-<p> This website is for teaching information about certain fish species</p>
+<p> This website is for teaching information about certain fish species and has several different pages for a variety of things. The ocean enviornment page has information on the conditions of the ocean and a video about it. The types of Fish page has several fish on it with information about them and a form about which one you think is the best. The email Page is for Contacting us about anything you want to in regards to the website.</p>
 </body>
 </html>
