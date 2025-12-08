@@ -2,8 +2,14 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-/style>
 </head>
+<div class="topnav">
+ <a class="active"Main Page">Home</a>        
+        <a href="about.html">Ocean Environment</a>
+        <a href="services.html">Types of Fish</a>
+        <a href="portal.html">Email Page</a>
+        <a href="contact.html">Contact</a>
+</div>
 <body>
 <h3>Contact Form</h3>
 
