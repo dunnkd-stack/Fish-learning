@@ -7,9 +7,9 @@
 </head>
 <div class="topnav">
  <a class="active"Main Page">Home</a>        
-        <a href="about.html">About us</a>
-        <a href="services.html">Services</a>
-        <a href="portal.html">client portal</a>
+        <a href="about.html">Ocean Environment</a>
+        <a href="services.html">Types of Fish</a>
+        <a href="portal.html">Email Page</a>
         <a href="contact.html">Contact</a>
 </div>
  <title>Ocean Environment</title>
